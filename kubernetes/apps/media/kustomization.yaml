@@ -5,7 +5,7 @@ resources:
   - namespace.yaml
   # - calibre-web
   # - calibre-web-fic
-  #- jellyfin
+  # - jellyfin
   # - owncast
   # - plex
   # - szurubooru
