@@ -14,3 +14,5 @@ resources:
   - ./metrics-server.yaml
   - ./stakater.yaml
   - ./weave-gitops.yaml
+  - ./node-feature-discovery.yaml
+  - ./rook-ceph.yaml
