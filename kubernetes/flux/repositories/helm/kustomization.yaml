@@ -24,7 +24,7 @@ resources:
   - ./cilium.yaml
   - ./cloudnative-pg.yaml
   - ./crowdsec.yaml
-  - ./csi-drive-nfs.yaml
+  - ./csi-driver-nfs.yaml
   - ./descheduler.yaml
   - ./drone.ymal
   - ./dysnix.yaml
@@ -42,3 +42,4 @@ resources:
   - ./gitea.yaml
   - ./grafana.yaml
   - ./external-secrets.yaml
+  - ./csi-driver-smb.yaml
