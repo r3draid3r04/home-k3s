@@ -16,3 +16,29 @@ resources:
   - ./weave-gitops.yaml
   - ./node-feature-discovery.yaml
   - ./rook-ceph.yaml
+  - ./actions-runner-controller.yaml
+  - ./angelnu.yaml
+  - ./aqua.yaml
+  - ./backube.yaml
+  - ./cert-manager-webhook-ovh.yaml
+  - ./cilium.yaml
+  - ./cloudnative-pg.yaml
+  - ./crowdsec.yaml
+  - ./csi-drive-nfs.yaml
+  - ./descheduler.yaml
+  - ./drone.ymal
+  - ./dysnix.yaml
+  - ./emxq.yaml
+  - ./intel.yaml
+  - ./nextcloud.yaml
+  - ./stakater.yaml
+  - ./tf-controller.yaml
+  - ./piraeus.yaml
+  - ./prometheus-community.yaml
+  - ./redis-operator.yaml
+  - ./fairwinds.yaml
+  - ./falco-security.yaml
+  - ./flagger.yaml
+  - ./gitea.yaml
+  - ./grafana.yaml
+  - ./external-secrets.yaml
