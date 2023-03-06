@@ -7,5 +7,4 @@ metadata:
   namespace: flux-system
 spec:
   interval: 2h
-  url: https://dl.gitea.io/charts
-  timeout: 3m
+  url: https://dl.gitea.io/charts/
